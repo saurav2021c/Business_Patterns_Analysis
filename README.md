@@ -38,7 +38,9 @@ ORDER BY 1,2;
 ![image](https://github.com/saurav2021c/Business_Patterns_Analysis/assets/97289683/efbd224f-653a-4815-9589-952e02e54bfe)
 
 ### Conclusion:
-- Now as we are at the end of 3 years in business . we can see dramatic growth. We can see 60 orders from 1st Quarter. And in 2015 it has been increased 100 times more orders. There is similar growth in other Quarters too which is really impressive. 
+- Now as we are at the end of 3 years in business. we can see dramatic growth.
+- We can see 60 orders from 1st Quarter. And in 2015 it has been increased 100 times more orders.
+- There is similar growth in other Quarters too which is really impressive. 
 
 ## `Question 2:`
 ### Next, let’s showcase all of our efficiency improvements. I would love to show quarterly figures since we launched, for session-to-order conversion rate, revenue per order, and revenue per session. 
