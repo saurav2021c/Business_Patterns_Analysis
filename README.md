@@ -17,7 +17,7 @@ This is a SQL Project which uses the `Advanced SQL` concepts for Analysis. This 
 - This Project will be like a conversation in which I am solving issues and finding insights from the Tables of Database.
 
   ## Explore the Part 1 of this project too
-  ## Part 1 focuses on `Website Performances` and `Traffic Analysis.`
+  ## Part 1 focuses on `Website Performances` and `Traffic Analysis.` : [Click Here](https://github.com/saurav2021c/Website_Performance_SQL-Project)
 
 ## `Question 1:`
 ### First, I’d like to show our volume growth. Can you pull overall session and order volume, trended by quarter for the life of the business? Since the most recent quarter is incomplete, you can decide how to handle it. 
